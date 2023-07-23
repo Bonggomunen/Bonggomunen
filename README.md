@@ -9,12 +9,7 @@
   <a href="https://www.tiktok.com/@bonggodwi" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/dagelanjagad" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://web.facebook.com/bonggomunen/" target="_blank" download="Resume.pdf">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  
 </p>
 
 # Website ⚙️
